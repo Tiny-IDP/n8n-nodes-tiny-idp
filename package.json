@@ -1,6 +1,6 @@
 {
   "name": "@tiny-idp/n8n-nodes-tinyidp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "n8n community node to extract structured data from identity documents using Tiny IDP",
   "license": "MIT",
   "homepage": "",
