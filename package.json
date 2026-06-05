@@ -1,5 +1,5 @@
 {
-  "name": "@tinyidp/n8n-nodes-tinyidp",
+  "name": "@tiny-idp/n8n-nodes-tinyidp",
   "version": "0.1.0",
   "description": "n8n community node to extract structured data from identity documents using Tiny IDP",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "lint": "n8n-node lint",
     "lint:fix": "n8n-node lint --fix",
     "release": "n8n-node release",
-    "prepublishOnly": "n8n-node prerelease"
+    "prepublishOnly": "npm run build"
   },
   "files": [
     "dist"

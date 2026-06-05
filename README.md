@@ -1,4 +1,4 @@
-# @tinyidp/n8n-nodes-tinyidp
+# @tiny-idp/n8n-nodes-tinyidp
 
 This is an n8n community node for [Tiny IDP](https://tiny-idp.com). It allows you to extract structured data from identity documents such as Passports, Spanish DNIs, EU Driver Licenses, and Proof of Address using Tiny IDP's powerful extraction API.
 
@@ -12,7 +12,7 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 1. Go to **Settings** > **Community Nodes** in your n8n instance.
 2. Click on **Install a node**.
-3. Enter `@tinyidp/n8n-nodes-tinyidp` as the npm package name.
+3. Enter `@tiny-idp/n8n-nodes-tinyidp` as the npm package name.
 4. Agree to the risks and click **Install**.
 
 ---
